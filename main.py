@@ -2,7 +2,7 @@ import streamlit as st
 
 # Page configuration
 st.set_page_config(
-    page_title="क्रांती नागरिक सहकारी बँक",
+    page_title="श्रीनाथ नागरिक सहकारी बँक",
     page_icon="🏦",
     layout="wide"
 )
