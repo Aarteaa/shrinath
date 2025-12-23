@@ -62,7 +62,7 @@ with col3:
 with col2:
     st.markdown("""
         <div class="main-header">
-            <h1 class="bank-title">क्रांती नागरिक सहकारी बँक</h1>
+            <h1 class="bank-title">श्रीनाथ नागरिक सहकारी बँक</h1>
             <p class="tagline">तुमच्या विश्वासाचं बँक | Your Trusted Banking Partner</p>
         </div>
     """, unsafe_allow_html=True)
